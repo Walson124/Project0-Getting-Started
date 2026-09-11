@@ -3,11 +3,14 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Walson Li
+  * [LinkedIn](www.linkedin.com/in/walsonli), [personal website](walsonli.com)
+* Tested on: Windows 11 Home, i5-10300H @ 2.50GHz 16GB, GTX 2060 (Personal Laptop)
 
-### (TODO: Your README)
+### 2.1.1
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+The compute capability of the RTX 2060 is 7.5
+
+### 2.1.2
+
+(image here)
