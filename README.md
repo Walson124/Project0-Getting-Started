@@ -13,4 +13,4 @@ The compute capability of the RTX 2060 is 7.5
 
 ### 2.1.2
 
-(image here)
+![Part 2.1.2 screenshot](images/2_1_2.png)
